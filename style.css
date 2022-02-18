@@ -1,0 +1,38 @@
+span
+{
+    font-weight: bold;
+    color: yellow;
+}
+
+body
+{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(167,153,153);
+}
+
+h1
+{
+    font-variant-caps: small-caps;
+}
+
+p, li
+{
+    text-align: justify;
+}
+
+.container
+{
+    margin: 20px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover
+{
+    color: red;
+}
